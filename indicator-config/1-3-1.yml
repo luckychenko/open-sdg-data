@@ -26,10 +26,11 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: inprogress
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+progress_status: approaching_target
 source_active_1: true
 source_organisation_1: National Bureau of Statistics
 source_url_1: "https://nigerianstat.gov.ng"
