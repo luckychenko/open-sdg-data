@@ -1,3 +1,10 @@
 Disaggregation,Number of indicators,Number of values
 Age_group,1,9
+Education Status,1,5
+Ethnicity,1,10
+Geopolitical zones,1,6
+Place of Residence,2,2
 Sector,1,2
+Sex,1,2
+State,2,39
+Wealth Index Quintile,1,5
