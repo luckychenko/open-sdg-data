@@ -1,7 +1,7 @@
 ﻿composite_breakdown_label: ''
 computation_units: ''
-copyright: ''
-data_footnote: ''
+copyright: 'NBS'
+data_footnote: 'In Borno, 7 LGAs was covered'
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -30,3 +30,6 @@ reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
+source_active_1: true
+source_organisation_1: National Bureau of Statistics
+source_url_1: "https://nigerianstat.gov.ng"
