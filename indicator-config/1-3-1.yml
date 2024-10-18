@@ -1,7 +1,7 @@
 ﻿composite_breakdown_label: ''
 computation_units: ''
-copyright: ''
-data_footnote: ''
+copyright: 'NBS'
+data_footnote: 'Data on Social Proctection Floors/System not available in the 2017 MICS report'
 data_non_statistical: false
 data_notice_class: ''
 data_notice_heading: ''
@@ -26,7 +26,10 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: inprogress
 sort: ''
 standalone: false
 tags: []
+source_active_1: true
+source_organisation_1: National Bureau of Statistics
+source_url_1: "https://nigerianstat.gov.ng"

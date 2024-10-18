@@ -1,0 +1,100 @@
+SDG_GOAL: >-
+  Goal 1: End poverty in all its forms everywhere
+SDG_TARGET: >-
+  Target 1.3: Implement nationally appropriate social protection systems 
+  and measures for all, includingfloors, and by 2030 achieve substantial 
+  coverage of the poor and the vulnerable
+SDG_INDICATOR: >-
+  Indicator 1.3.1: Proportion of population covered by social protection 
+  floors/systems, by sex,distinguishing children, unemployed persons, older 
+  persons, persons with disabilities, pregnant women,newborns, work-injury 
+  victims and the poor and the vulnerable
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+  NATIONAL BUREAU OF STATISTICS
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  ## Definition:
+  The indicator reflects the proportion of persons effectively covered 
+  by a social protection system,including social protection floors. It also reflects 
+  the main components of social protection: child andmaternity benefits, support for 
+  persons without a job, persons with disabilities, victims of work injuriesand older 
+  persons.Effective coverage of social protection is measured by the number of people 
+  who are either actively contributing to a social insurance scheme or receiving benefits
+   (contributory or non-contributory).
+
+   ## Concepts:
+   Social protection systems include contributory and non-contributory schemes for children, 
+   pregnantwomen with newborns, people in active age, older persons, for victims of work injuries 
+   and persons withdisabilities. Social protection floors provide at least a basic level in all main 
+   contingencies along the lifecycle, as defined in the Social Protection Floors Recommendation 2012 
+   (no. 202) referred to in SDG 1.3.When assessing coverage and gaps in coverage, distinctions need to 
+   be made between coverage by (1)contributory social insurance, (2) universal schemes covering all residents 
+   (or all residents in a givencategory), and (3) means-tested schemes potentially covering all those who pass
+   the required test ofincome and/or assets.
+UNIT_MEASURE: >-
+  Percent (%)
+
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+  NBS, MICS6 2021
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
